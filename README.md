@@ -6,3 +6,5 @@ To predict credit risk we adopted the following procedure:  <br/>
 - Undersample the data using the **ClusterCentroids** algorithm.
 - Use a combinatorial approach of over- and undersampling using the **SMOTEENN** algorithm.
 - Compare two machine learning models that reduce bias, **BalancedRandomForestClassifier** and **EasyEnsembleClassifier**.
+
+We will evaluate the performance of these models and make a recommendation on whether they should be used to predict credit risk.
