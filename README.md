@@ -1,4 +1,4 @@
-# Credit_Risk_Analysis
+# Credit Risk Analysis
 Build and evaluate several machine learning algorithms to predict credit risk using Python. <br/> 
 To predict credit risk we adopted the following procedure:  <br/>
 
@@ -12,3 +12,32 @@ We will evaluate the performance of these models and make a recommendation on wh
 ### Resources
 - Data :&nbsp; [LoanStats_2019Q1.csv]()
 - Software :&nbsp; [Python](https://www.python.org/downloads/),&nbsp; [Jupyter Notebook](https://www.anaconda.com/products/distribution)
+
+## RandomOverSampler model
+
+![01.png](Images/01.png)
+
+
+## SMOTE model
+
+![02.png](Images/02.png)
+
+
+## ClusterCentroids model
+
+![03.png](Images/03.png)
+
+
+## SMOTEENN model
+
+![04.png](Images/04.png)
+
+
+## EasyEnsembleClassifier model
+
+![05.png](Images/05.png)
+
+
+## BalancedRandomForestClassifier model
+
+![06.png](Images/06.png)
