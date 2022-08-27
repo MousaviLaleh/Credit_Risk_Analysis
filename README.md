@@ -8,3 +8,7 @@ To predict credit risk we adopted the following procedure:  <br/>
 - Compare two machine learning models that reduce bias, **BalancedRandomForestClassifier** and **EasyEnsembleClassifier**.
 
 We will evaluate the performance of these models and make a recommendation on whether they should be used to predict credit risk.
+
+### Resources
+- Data : [LoanStats_2019Q1.csv]()
+- Software : [Python](https://www.python.org/downloads/),&nbsp; [Jupyter Notebook](https://www.anaconda.com/products/distribution)
