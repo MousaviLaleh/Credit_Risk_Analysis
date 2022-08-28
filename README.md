@@ -17,6 +17,8 @@ We will evaluate the performance of these models and make a recommendation on wh
 
 ![01.png](Images/01.png)
 
+<br/>
+he balanced accuracy score is 65%. The high_risk precision is about 1% only with 62% sensitivity which makes a F1 of 2% only.
 
 ## SMOTE model
 
