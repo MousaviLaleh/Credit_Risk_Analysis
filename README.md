@@ -10,7 +10,7 @@ To predict credit risk we adopted the following procedure:  <br/>
 We will evaluate the performance of these models and make a recommendation on whether they should be used to predict credit risk.
 
 ### Resources
-- Data :&nbsp; [LoanStats_2019Q1.csv]()
+- Data :&nbsp; [LoanStats_2019Q1.csv](https://drive.google.com/file/d/16AEhrStndfbLWY55DunnV-BdZXBaCuNI/view?usp=sharing)
 - Software :&nbsp; [Python](https://www.python.org/downloads/),&nbsp; [Jupyter Notebook](https://www.anaconda.com/products/distribution)
 
 ## RandomOverSampler model
