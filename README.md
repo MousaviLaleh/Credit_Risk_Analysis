@@ -45,9 +45,9 @@ Due to the high number of false positives, the low_risk sensitivity is only 44%.
 
 ![04.png](Images/04.png)
 <br/>
-The balanced accuracy score is about 62%. <br/>
-The high_risk precision is still 1% only with 68% sensitivity which makes a F1 of only 2%. <br/>
-Due to the high number of false positives, the low_risk sensitivity is 57%.
+The balanced accuracy score is about 52%. <br/>
+The high_risk precision is still 1% only with 71% sensitivity which makes a F1 of only 2%. <br/>
+Due to the high number of false positives, the low_risk sensitivity is 55%.
 
 
 ## EasyEnsembleClassifier model
