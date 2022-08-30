@@ -52,13 +52,20 @@ The high_risk precision is still 1% only with 71% sensitivity which makes a F1 o
 Due to the high number of false positives, the low_risk sensitivity is 55%.
 
 
-## EasyEnsembleClassifier model
+## BalancedRandomForestClassifier model
 
 ![05.png](Images/05.png)
 <br/>
+The balanced accuracy score improved to about 79%.
+The high_risk precision is still low at 4% only with 67% sensitivity which makes a F1 of only 7%.
+Due to a lower number of false positives, the low_risk sensitivity is now 91% with 100% presicion.
 
 
-
-## BalancedRandomForestClassifier model
+## EasyEnsembleClassifier model
 
 ![06.png](Images/06.png)
+
+<br/>
+The balanced accuracy score is high to about 93%.
+The high_risk precision is still low at 7% only with 91% sensitivity which makes a F1 of only 14%.
+Due to a lower number of false positives, the low_risk sensitivity is now 94% with 100% presicion.
